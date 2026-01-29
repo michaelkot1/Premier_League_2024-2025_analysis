@@ -11,9 +11,9 @@ This project analyzes team and player-level data from the 2024–2025 Premier Le
 ## Methodology
 - Cleaned and standardized datasets
 - Matched inconsistent team/player naming across sources
-- Engineered position-based aggregates
-- Computed correlations with end-of-season points
-- Visualized key relationships
+- Created position-based aggregates
+- Calculated correlations with end-of-season points
+- Visualized key relationships to find patterns
 
 ## Key Findings
 - Possession and progressive actions correlate more strongly with success for top teams
