@@ -59,11 +59,12 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 4. Launch Jupyter Notebooks
-* jupyter notebook
+jupyter notebook
+
 5. Navigate to Main File
-- main_inspecting.ipynb
+Select file: main_inspecting.ipynb
 
 6. Open Notebook
-- Select Kernel (Python [conda env:base])
+Select Kernel: (Python [conda env:base])
 
 7. Click run and then run all
