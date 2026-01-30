@@ -41,4 +41,23 @@ The analysis includes 7 core visualizations:
 
 ## How to Run
 ```bash
+1. Clone Repo:
+- git clone https://github.com/michaelkot1/Premier_League_2024-2025_analysis
+- cd Premier_League_2024-2025_analysis
+2. Create Virtual Environment
+# macOS / Linux
+python3 -m venv venv
+source venv/bin/activate
+# Windows
+python -m venv venv
+venv\Scripts\activate
+3. Install Dependencies
+pip install --upgrade pip
 pip install -r requirements.txt
+4. Launch Jupyter Notebooks
+- jupyter notebook
+5. Navigate to Main File
+- main_inspecting.ipynb
+6. Open Notebook
+- Select Kernel (Python [conda env:base])
+7. Click run and then run all
