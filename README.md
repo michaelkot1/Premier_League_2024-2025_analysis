@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes team and player-level data from the 2024–2025 Premier League season to identify statistical patterns that distinguish winning teams from losing teams beyond goals for and against. 
+View folder Tableau Worksheets to see Tableau Visuals that I made from the same data.
 
 ## Data
 I aggregated team and positional data into five Tactical Buckets to measure performance per 90 minutes:
@@ -18,9 +19,9 @@ I aggregated team and positional data into five Tactical Buckets to measure perf
 - Created custom indices like the Progressive Attack Score and Points ROI to measure efficiency.
 
 ## Key Findings
-- The Financial Floor: There is a high correlation between spend and points, but the "ROI" analysis identifies which mid-table clubs are the most efficient recruiters.
-- The Midfield Trap: High defensive involvement in the midfield often correlates with higher goals conceded, suggesting a lack of control rather than defensive stability.
-- Progression Archetypes: Elite teams don't just pass; they show high efficiency in both progressive passing and progressive carrying, making them multi-dimensional threats.
+- There is a high correlation between spend and points, but the "ROI" analysis identifies which mid-table clubs are the most efficient recruiters.
+- High defensive involvement in the midfield often correlates with higher goals conceded, suggesting a lack of control rather than defensive stability.
+- Elite teams don't just pass, they show high efficiency in both progressive passing and progressive carrying, making them multi-dimensional threats.
 
 ## Visualizations
 The analysis includes 7 core visualizations:
